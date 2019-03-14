@@ -40,6 +40,8 @@ https://www.w3schools.com/python/python_datetime.asp
 https://www.w3schools.com/python/python_conditions.asp
 
 
+
+
 Problem 3
 
 The 'for' loop makes a list of numbers between 1000 and 10,000 (10,001 is used to make sure the range is correct)
@@ -53,6 +55,8 @@ Reference
 https://www.w3schools.com/python/python_operators.asp
 
 https://www.w3schools.com/python/ref_func_range.asp
+
+
 
 Problem 4
 
@@ -71,6 +75,20 @@ If it reaches 1, it can't divide by 1 thus the program finishes
 References
 
 https://interactivepython.org/runestone/static/CS152f17/MoreAboutIteration/The3n1Sequence.html
+
+
+Problem 5
+
+A prime number a number that is divisible only by itself and 1.In order to find the number, we need to establish a program that determines one. 
+
+The way to do that is to make dure the number is a positive intiger, divisible by 2 integers (1 and itself) and that it can't be 1 since it isn't a prime number.
+
+
+
+
+Reference
+https://hackernoon.com/prime-numbers-using-python-824ff4b3ea19
+
 
 
 
