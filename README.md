@@ -54,5 +54,24 @@ https://www.w3schools.com/python/python_operators.asp
 
 https://www.w3schools.com/python/ref_func_range.asp
 
+Problem 4
+
+First you add in your positive integer.
+
+When n does not equal 1, it prints the number
+
+if the number is even, divide by 2
+
+If number is odd, is uses the 3n+1 formula
+
+the system keeps going til the number reaches 1.
+
+If it reaches 1, it can't divide by 1 thus the program finishes
+
+References
+
+https://interactivepython.org/runestone/static/CS152f17/MoreAboutIteration/The3n1Sequence.html
+
+
 
 
