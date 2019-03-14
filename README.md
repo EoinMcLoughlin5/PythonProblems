@@ -83,13 +83,13 @@ A prime number a number that is divisible only by itself and 1.In order to find 
 
 The way to do that is to make dure the number is a positive intiger, divisible by 2 integers (1 and itself) and that it can't be 1 since it isn't a prime number.
 
-
+The range of the answer should be between 2 and the 
 
 
 Reference
 https://hackernoon.com/prime-numbers-using-python-824ff4b3ea19
 
-
+https://www.geeksforgeeks.org/python-program-to-check-whether-a-number-is-prime-or-not/
 
 
 
