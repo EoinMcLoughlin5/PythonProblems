@@ -1,7 +1,7 @@
 n = int(input("Please enter a positive integer: "))
 
 if number > 1:
-    for i in range(2, n):
+    for i in range(2, n//2):
         if (number % i) == 0:
             print(number, "is not a prime ")
             break
