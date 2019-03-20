@@ -1,0 +1,11 @@
+fp=open("Moby Dick")
+
+for i, line in enumerate (fp):
+if i==0
+
+elif i==2
+elif i>2
+
+break
+
+fp close()
