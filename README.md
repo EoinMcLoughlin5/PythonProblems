@@ -95,5 +95,14 @@ https://www.geeksforgeeks.org/python-program-to-check-whether-a-number-is-prime-
 
 https://beginnersbook.com/2018/01/python-program-check-prime-or-not/
 
+Problem 6
+
+You start off by adding a setence with the input command.
+
+Then by using the split option you split the setence up into the words
+
+reference
+https://www.w3schools.com/python/ref_string_split.asp
+https://docs.microsoft.com/en-us/dotnet/api/system.string.split?view=netframework-4.7.2
 
 
