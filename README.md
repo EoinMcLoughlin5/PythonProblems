@@ -107,7 +107,7 @@ https://docs.microsoft.com/en-us/dotnet/api/system.string.split?view=netframewor
 
 Problem 7
 
-when addint the input, you 
+when adding the input, you 
 
 Reference
 https://www.programiz.com/python-programming/examples/square-root
@@ -123,6 +123,8 @@ when printing the drtftime you use the %d for the day, %m for the month, %y for 
 reference
 
 https://www.w3resource.com/python-exercises/python-basic-exercise-3.php
+
+problem 9
 
 
 
