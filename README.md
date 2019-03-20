@@ -112,3 +112,17 @@ when addint the input, you
 Reference
 https://www.programiz.com/python-programming/examples/square-root
 
+Problem 8
+
+you use the import function to import the date time
+
+then use the now function to import todays date and then the print one to share the date and time.
+
+when printing the drtftime you use the %d for the day, %m for the month, %y for year, %H for hour, %M for minutes and %s for seconds
+
+reference
+
+https://www.w3resource.com/python-exercises/python-basic-exercise-3.php
+
+
+
