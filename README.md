@@ -105,4 +105,10 @@ reference
 https://www.w3schools.com/python/ref_string_split.asp
 https://docs.microsoft.com/en-us/dotnet/api/system.string.split?view=netframework-4.7.2
 
+Problem 7
+
+when addint the input, you 
+
+Reference
+https://www.programiz.com/python-programming/examples/square-root
 
