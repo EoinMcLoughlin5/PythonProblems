@@ -107,10 +107,13 @@ https://docs.microsoft.com/en-us/dotnet/api/system.string.split?view=netframewor
 
 Problem 7
 
-when adding the input, you 
+when adding the input, you make sure the number is a float number by "float" in the input
+you use ** to get the exponentiation of a number and you can find the square root of the number by rasing the number to the power of 1/2 (or 0.5)
 
 Reference
 https://www.programiz.com/python-programming/examples/square-root
+https://www.w3schools.com/python/python_operators.asp
+https://www.mathsisfun.com/algebra/exponent-fractional.html
 
 Problem 8
 
