@@ -146,7 +146,11 @@ https://www.w3schools.com/python/python_file_open.asp
 
 Problem 10
 
+you start off by  importing the graph function by typing:  import matplotlib.pyplot as plt
 
+Then you add yout plot function with using the square brackets to represent the normal numbers and then the functions ofx,x**2 and 2**x.
+
+then you type plt.show() to show hthe graph of the function.
 
 reference
 https://matplotlib.org/users/pyplot_tutorial.html
