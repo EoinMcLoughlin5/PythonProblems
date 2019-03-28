@@ -144,3 +144,10 @@ https://stackabuse.com/read-a-file-line-by-line-in-python/
 https://www.w3schools.com/python/python_file_handling.asp
 https://www.w3schools.com/python/python_file_open.asp
 
+Problem 10
+
+
+
+reference
+https://matplotlib.org/users/pyplot_tutorial.html
+
