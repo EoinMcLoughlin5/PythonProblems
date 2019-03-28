@@ -1,11 +1,4 @@
-fp=open("Moby Dick")
+f = open("moby-dick.txt", "r")
 
-for i, line in enumerate (fp):
-if i==0
-
-elif i==2
-elif i>2
-
-break
-
-fp close()
+print(f.readline())
+print(f.readline())
