@@ -129,5 +129,18 @@ https://www.w3resource.com/python-exercises/python-basic-exercise-3.php
 
 problem 9
 
+To open the file, use the built-in open() function.
 
+The open() function returns a file object, which has a read() method for reading the content of the file:
+
+You use the r to default value. Opens a file for reading, error if the file does not exist
+
+You can return one line by using the readline() method
+
+By calling readline() two times, you can read the two first lines:
+
+Reference
+https://stackabuse.com/read-a-file-line-by-line-in-python/
+https://www.w3schools.com/python/python_file_handling.asp
+https://www.w3schools.com/python/python_file_open.asp
 
